@@ -52,9 +52,8 @@ Several classifiers were evaluated to identify the best model for predicting a c
 - **Evaluation Metric:**  
   F1 Score was used to balance precision and recall.
 - **Results:**  
-  The Random Forest model combined with the Bag-of-Words representation delivered the best performance in terms of F1 score and overall accuracy.
-- **Hyperparameter Tuning:**  
-  A grid search with stratified k-fold cross-validation was performed to fine-tune parameters.
+  The Random Forest model combined with the Bag-of-Words representation delivered the best performance in terms of F1 score and computational time.
+  
 
 ## 5. System Integration
 
